@@ -1,0 +1,118 @@
+#a5{
+    background-color: #00008B;
+}
+h1{
+    font-size: 80px;
+    top: 0;
+    position: absolute;
+    left: 30%;
+}
+.pp{
+    left: 5%;
+    right: 5%;
+    top: 25%;
+    position: absolute;
+    font-size: 20px;
+}
+.hh{
+    font-size: 30px;
+    padding-left: 5%;
+    text-decoration: underline;
+}
+.c1-container {
+    width: 550px;
+    height: 520px;
+    background-color: #DADBDD;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    margin-left: -20px; /* Half of the arrow's width */
+    border-width: 50px;
+    border-style: solid;
+    border-color: transparent transparent #3498db transparent;
+}
+.c1-pp{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    font-size: 20px;
+}
+h2{
+    padding-left: 5%;
+}
+#cc1{
+    top: 40%;
+    left: 5%;
+    position: absolute;
+}
+img{
+    width: 400px;
+}
+#im1{
+    top: 50%;
+    left: 60%;
+    position: absolute;
+}
+#cc2{
+    top: 140%;
+    right: 5%;
+    position: absolute;
+}
+#im2{
+    top: 150%;
+    right: 60%;
+    position: absolute;
+}
+#cc3{
+    top: 240%;
+    left: 5%;
+    position: absolute;
+    height: 750px;
+}
+#im3{
+    top: 250%;
+    left: 60%;
+    position: absolute;
+}
+#cc4{
+    top: 375%;
+    right: 5%;
+    position: absolute;
+}
+#im4{
+    top: 385%;
+    right: 60%;
+    position: absolute;
+}
+#cc5{
+    top: 480%;
+    left: 5%;
+    position: absolute;
+}
+#im5{
+    top: 490%;
+    left: 60%;
+    position: absolute;
+}
+#p10{
+    left: 5%;
+    right: 5%;
+    top: 570%;
+    position: absolute;
+    font-size: 20px;
+}
+footer {
+    top:657%;
+    position: absolute;
+  }
+  iframe{
+    top: 590%;
+    position: absolute;
+}
+#aaa{
+    top:640%;
+    left: 45%;
+    position: absolute;
+    border-right: none;
+}
+#ii{
+    width: 100px;
+}

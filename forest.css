@@ -1,0 +1,43 @@
+#a3{
+    background-color: #00008B;
+}
+h1{
+    font-size: 80px;
+    top: 0;
+    position: absolute;
+    left: 20%;
+}
+img{
+    left: 15%;
+    position: absolute;
+}
+h2{
+    left: 20%;
+    right: 15%;
+    position: absolute;
+}
+.pp{
+    left: 20%;
+    right: 15%;
+    position: absolute;
+}
+#aa1{
+    left: 45%;
+    position: absolute;
+    border-right: none;
+}
+#ii{
+    width: 100px;
+}
+footer {
+    position: absolute;
+  }
+#ia{
+    width: 100px;
+    left: 5%;
+    top: 5%;
+    position: absolute;
+}
+#ap{
+    border-right: none;
+}

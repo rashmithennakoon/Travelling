@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travelling Lanka</title>
+    <link rel="stylesheet" href="comment.css">
+    <link rel="stylesheet" href="nav.css">
+</head>
+<body>
+    <nav>
+        <ul>
+          <div class="nmm">
+          <li id="a1"><a href="index.html">Home</a></li>
+          <li id="a2"><a href="about.html">About Sri lanka</a></li>
+          <li id="a5"><a href="histry.html">History of Sri lanka</a></li>
+          </div>
+          <li class="dropdown" id="a3">
+            <div class="nmm2">
+            <a href="#" class="dropbtn">Visit</a>
+            </div>
+            <div class="dropdown-content">
+              <a href="rain.html">Rain Forests</a>
+              <a href="waterfall.html">Water Fales</a>
+              <a href="beach.html">Beaches</a>
+              <a href="garden.html">Botenical Gardens</a>
+              <a href="places.html">Historical Places</a>
+            </div>
+          </li>
+          <div class="nmm1">
+          <li id="a4"><a href="comment.html" style="color:white;">Comments</a></li>
+          </div>
+        </ul>
+    </nav>
+    <h1>Comment</h1><br><br><br><br><br><br><br><br><br>
+    <form action='commentconnect.php' method="POST">
+        <label for="user" id="name1" class="lb">Name:</label>
+        <input type='text' name='name' id="name" class="bo" size="47" required/><br><br><br><br>
+        <label for="phone" id="phone1" class="lb">Mobile Number:</label>
+        <input type='text' name='phone' id="phone" class="bo" size="47" required/><br><br><br><br>
+        <label for="email" id="email1" class="lb">Email:</label>
+        <input type='email' name='email' id="email" class="bo" size="47" required/><br><br><br><br>
+        <label for="comment" id="comment1" class="lb">Comment:</label>
+        <textarea class='bo' id="comment" name="comment" rows="4" cols="50"></textarea><br><br><br><br><br><br><br><br>
+
+        <input type='submit' name='submit' id='submit'>
+    </form>
+    <footer>
+        <p>&copy; 2024 WellnessGuard Hospital</p>
+    </footer>
+</body>
+</html>

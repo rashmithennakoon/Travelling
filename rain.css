@@ -1,0 +1,100 @@
+#a3{
+    background-color: #00008B;
+}
+h1{
+    font-size: 80px;
+    top: 0;
+    position: absolute;
+    left: 20%;
+}
+.pp{
+    left: 5%;
+    right: 5%;
+    top: 25%;
+    position: absolute;
+    font-size: 20px;
+    text-align: justify;
+}
+.c1-container {
+    width: 550px;
+    height: 700px;
+    background-color: #93FFE8;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+h2{
+    font-size: 40px;
+    padding-left: 5%;
+}
+img{
+    width: 300px;
+}
+#cc1{
+    top: 60%;
+    left: 30%;
+    position: absolute;
+}
+#aa{
+    border-right: none;
+}
+#aaa{
+    border-right: none;
+}
+#cc2{
+    top: 170%;
+    left: 30%;
+    position: absolute;
+}
+#cc3{
+    top: 280%;
+    left: 30%;
+    position: absolute;
+}
+#cc4{
+    top: 390%;
+    left: 30%;
+    position: absolute;
+    height: 780px;
+}
+#i1{
+    right: 0;
+    top: 50%;
+    position: absolute;
+}
+#i2{
+    right: 0;
+    top: 200%;
+    position: absolute;
+}
+#i3{
+    left: 0;
+    top: 300%;
+    position: absolute;
+}
+#i4{
+    left: 0;
+    top: 125%;
+    position: absolute;
+}
+#i5{
+    right: 0;
+    top: 375%;
+    position: absolute;
+}
+#i6{
+    left: 0;
+    top: 450%;
+    position: absolute;
+}
+#aa1{
+    top:510%;
+    left: 45%;
+    position: absolute;
+    border-right: none;
+}
+#ii{
+    width: 100px;
+}
+footer {
+    top:527%;
+    position: absolute;
+  }
